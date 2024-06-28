@@ -41,6 +41,6 @@ s^2 = \frac{1}{n} \sum_{i=1}^{n} (x_i - \bar{x})^2
 $$
 
 ---
- Cabe ressaltar que quando obtemos um conjunto de dados pequeno, a variância amostral enviesada se aproxima mais da variância populacional, entretanto, na medida que aumentamos nosso conjunto de dados, a variância amostral não enviesada se aproxima muito mais da variância populacional e esse comportamento tendo a aumentar quanto maior for o conjunto de dados.
+ Cabe ressaltar que quando obtemos um conjunto de dados pequeno, a variância amostral enviesada se aproxima mais da variância populacional, entretanto, na medida que aumentamos nosso conjunto de dados, a variância amostral não enviesada se aproxima muito mais da variância populacional e esse comportamento tende a aumentar quanto maior for o conjunto de dados.
  
 Agora que já introduzi o que pretendo demonstrar nesse repositório, acompanhe-me até o script e vamos ver graficamente como isso é **verdadeiro.**
